@@ -16,22 +16,20 @@ DSA/
 │ ├── .java
 │ └── .py
 ```
-yaml
-
 - Each folder represents a DSA topic.
 - Files can be in **Java or Python**, depending on the implementation choice.
 - Filenames are descriptive of the problem solved.
 
 ---
 
-## 🛠 Languages Used
+##  Languages Used
 
 - **Java**
 - **Python**
 
 ---
 
-## 🔹 How to Run
+## 🔹 How to Run?
 
 ### Java
 ```bash
